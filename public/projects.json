@@ -1,0 +1,32 @@
+[
+    {
+        "title": "T-Life",
+        "period": "Jul 2023 - Apr 2024",
+        "description": "Led development of T-Mobile USA's super app with 10M+ downloads. Implemented key features using Jetpack Compose (MVI) and created reusable UI components reducing development effort by 70%.",
+        "highlights": [
+            "10M+ Downloads",
+            "70% Efficiency Boost",
+            "MVI Architecture"
+        ]
+    },
+    {
+        "title": "My bpost",
+        "period": "Oct 2019 - May 2022",
+        "description": "Led development of Belgium's top-rated postal service app. Achieved 97% CO2 emissions reduction through Ecozone campaign. Transformed hybrid app to native Kotlin, improving speed by 60%.",
+        "highlights": [
+            "97% CO2 Reduction",
+            "4.X App Rating",
+            "60% Faster Performance"
+        ]
+    },
+    {
+        "title": "AQI App",
+        "period": "Apr 2024 - Present",
+        "description": "Showcase app using latest Android trends with Jetpack Compose. Integrates AirVisual API for real-time air quality tracking.",
+        "highlights": [
+            "Jetpack Compose",
+            "Modern Architecture",
+            "Real-time Data"
+        ]
+    }
+]

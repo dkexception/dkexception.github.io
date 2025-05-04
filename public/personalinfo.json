@@ -1,0 +1,13 @@
+{
+    "name": "Dhanesh Katre",
+    "summary": "Experienced Mobile Developer with a background in creation of high-performance mobile applications. Skilled in Android, iOS, Jetpack Compose, Kotlin Multiplatform and SwiftUI, with a focus on Clean Architecture and Reusable Components. Proven efficient leader in delivering scalable apps that enhance user experience.",
+    "role": "Mobile Developer",
+    "profileImageUrl": "https://www.gravatar.com/avatar/63f3435a328049fc728370001b690f74?s=256",
+    "portfolioSourceCode": "https://github.com/dkexception/portfolio",
+    "socialDetails": {
+        "github": "https://github.com/dkexception",
+        "linkedin": "https://www.linkedin.com/in/dhaneshkatre",
+        "medium": "https://dkexception.medium.com",
+        "mail": "mailto:dhaneshkatre@gmail.com"
+    }
+}

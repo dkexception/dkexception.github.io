@@ -1,0 +1,30 @@
+[
+    {
+        "company": "T-Systems ICT India Pvt. Ltd.",
+        "role": "Consultant - Mobile Developer",
+        "period": "May 2022 - Present",
+        "location": "Pune",
+        "domain": "Network, Connectivity, Wi-Fi Routers",
+        "achievements": [
+            "Successfully developed T-Life, a super App for T-Mobile USA, with over 10M downloads on Play Store.",
+            "Owned Home Internet & Remote Gateways Management modules; led development using Jetpack Compose (MVI) for a seamless UX.",
+            "Reduced redundant developer efforts by 70% by creating reusable UI components in Jetpack Compose.",
+            "Led the app to manage the next-gen RDK routers to be deployed in the USA."
+        ]
+    },
+    {
+        "company": "Tata Consultancy Services",
+        "role": "Systems Engineer - Android Developer",
+        "period": "Jul 2019 - May 2022",
+        "location": "Pune",
+        "domain": "Parcels and Mail deliveries",
+        "achievements": [
+            "Founded the module \"Ecozone\", for the Mybpost Android app, which achieved a groundbreaking 97% reduction in CO2 emissions and 70% reduction in air pollution due to parcel deliveries.",
+            "Ecozone campaign got awarded \"Environmental Achievement of the Year\" at Vienna 2021.",
+            "Engineered reusable Android Bluetooth Low Energy operational code component, saving 3 weeks of development time per client user.",
+            "Solely developed a Live Chat customer support system, boosting app ratings to 4.X",
+            "Integrated Huawei Mobile Services, increasing customer base by 5%",
+            "Organized transformation from hybrid Xamarin app to native Kotlin app, resulting in a 60% faster application"
+        ]
+    }
+]

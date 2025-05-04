@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Android Edge-to-Edge API for Full Screen Apps",
+        "date": "Mar 2024",
+        "description": "Leveraging Android's new enableEdgeToEdge API to create full screen apps",
+        "link": "https://dkexception.medium.com/beyond-the-frame-full-screen-apps-with-androids-edge-to-edge-api-dd28dec167a7"
+    },
+    {
+        "title": "Provider Pattern in Jetpack Compose",
+        "date": "Sep 2022",
+        "description": "Use the CompositionLocalProvider, to bring the Provider pattern into the Jetpack Compose universe",
+        "link": "https://betterprogramming.pub/provider-pattern-in-jetpack-compose-bb4f4e27185e"
+    },
+    {
+        "title": "Use Coroutines over Handlers",
+        "date": "Mar 2022",
+        "description": "Timed tasks can be simplified using Coroutines and Jobs over a Handler. See how!",
+        "link": "https://betterprogramming.pub/drift-away-from-android-handlers-use-coroutines-and-jobs-instead-581815dd3e72"
+    },
+    {
+        "title": "Solid Android Architecture using HILT",
+        "date": "Jan 2022",
+        "description": "Using the Hilt framework at its full potential — our success story!",
+        "link": "https://betterprogramming.pub/using-hilt-at-its-full-potential-our-success-story-be4445ef799d"
+    }
+]
