@@ -1,12 +1,21 @@
 [
     {
+        "title": "Citykey",
+        "period": "Since Oct 2024",
+        "description": "Citykey is a modern app that provides German citizens easy access to their City's services. I led its open-source venture for Deutsche Telekom.",
+        "highlights": [
+            "Open-Source",
+            "Multi-Modular MVVM architecture"
+        ]
+    },
+    {
         "title": "T-Life",
         "period": "Jul 2023 - Apr 2024",
         "description": "Led development of T-Mobile USA's super app with 10M+ downloads. Implemented key features using Jetpack Compose (MVI) and created reusable UI components reducing development effort by 70%.",
         "highlights": [
+            "Super App",
             "10M+ Downloads",
-            "70% Efficiency Boost",
-            "MVI Architecture"
+            "Multi-Modular MVI Architecture"
         ]
     },
     {
@@ -14,18 +23,18 @@
         "period": "Oct 2019 - May 2022",
         "description": "Led development of Belgium's top-rated postal service app. Achieved 97% CO2 emissions reduction through Ecozone campaign. Transformed hybrid app to native Kotlin, improving speed by 60%.",
         "highlights": [
-            "97% CO2 Reduction",
-            "4.X App Rating",
-            "60% Faster Performance"
+            "97% CO2 Reduction in parcel deliveries",
+            "Above 4.X App Rating",
+            "Bluetooth Low Energy SDK"
         ]
     },
     {
         "title": "AQI App",
-        "period": "Apr 2024 - Present",
+        "period": "Since Apr 2024",
         "description": "Showcase app using latest Android trends with Jetpack Compose. Integrates AirVisual API for real-time air quality tracking.",
         "highlights": [
+            "Kotlin Multiplatform",
             "Jetpack Compose",
-            "Modern Architecture",
             "Real-time Data"
         ]
     }
